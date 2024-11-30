@@ -1,1 +1,1 @@
-<center>Проект на Django😊</center>
+# Проект на Django😊🎉
